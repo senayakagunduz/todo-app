@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-around; 
+    background-color: white; 
+    }
+    .listButton{
+        display: flex;
+        list-style-type: none;
+        justify-content: space-between;  
+    }

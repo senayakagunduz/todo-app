@@ -1,0 +1,1 @@
+bu dosya küçük bir todo çalışmasıdır.Asıl Todo diğer components dosyasındadır.
